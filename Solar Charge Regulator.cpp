@@ -8,7 +8,7 @@ const int pwmOutputPin = 3;
 const int voltageSensorPin = A3;
 
 // Voltage Calibration
-const float VOLTAGE_CAP = 14.3; 
+const float VOLTAGE_CAP = 14.4; 
 const int UpdateInterval = 17;
 
 // Global variables 
