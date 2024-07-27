@@ -77,7 +77,7 @@ void updateSystem() {
 
   float sensorVoltageOutput = analogRead(voltageSensorPin) * 0.015616;
   
-  float solarVoltage = analogRead(solarVoltagePin) * 0.023912;
+  float solarVoltage = analogRead(solarVoltagePin) * 0.023911;
   
   measuredVoltageDrop = sensorVoltageOutput - batteryVoltage;
 
