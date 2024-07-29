@@ -13,7 +13,7 @@ Ensuring the safe and efficient charging of car batteries in remote areas is ess
 ## How You’re Going to Fix It
 This project involves designing a charge controller that uses an Arduino UNO to monitor and regulate the charging process. Voltage dividers scale down the battery voltage to fit within the Arduino's input range, and a 16x2 LCD display provides real-time information about the charging status. Instead of a solar panel, a DC power supply is used to regulate voltage, and capacitors are used to store energy.
 
-## Technology Used
+## Components/Technology Used
 - **Arduino UNO**: For monitoring and regulating the charging process.
 - **Voltage Dividers**: To scale down the battery voltage into the Arduino's input range.
 - **16x2 LCD Display**: To display real-time information about the charging process.
